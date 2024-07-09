@@ -3,8 +3,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
+  - [FinalDataset.xlsx](#FinalDataset.xlsx)
   - [Final_Model.ipynb](#final_modelipynb)
-  - [ml_model.ipynb](#ml_modelipynb)
   - [Final_Submission.pbix](#final_submissionpbix)
   - [PL_Dashboard_Report.pdf](#pl_dashboard_reportpdf)
 - [Usage](#usage)
@@ -15,11 +15,11 @@ This project involves web scraping Premier League data from various websites and
 
 ## Project Structure
 
-### Final_Model.ipynb
-This notebook contains the code used for web scraping data from different websites. The data collected is used for further analysis and modeling.
+### FinalDataset.xlsx
+This sheet contains all the web scraped as well as calculated data which was used for final predictions and visualization.
 
-### ml_model.ipynb
-This notebook includes the code for prediction using the XGBoost Random Forest Regressor model. It details the data preprocessing, model training, and evaluation processes.
+### Final_Model.ipynb
+This notebook contains the code used for web scraping data from different websites and then using the data from predicting the final standings as well as the goals scored for and against the team.
 
 ### Final_Submission.pbix
 This Power BI file contains the final dashboard where all the data is visualized in the form of tables and charts. It provides insights and key metrics derived from the data.
