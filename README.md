@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
-  - [FinalDataset.xlsx](#FinalDataset.xlsx)
+  - [FinalDataset.xlsx](#finaldatasetxlsx)
   - [Final_Model.ipynb](#final_modelipynb)
   - [Final_Submission.pbix](#final_submissionpbix)
   - [PL_Dashboard_Report.pdf](#pl_dashboard_reportpdf)
